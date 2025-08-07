@@ -88,7 +88,7 @@ Even though this project is based on a simple concept, it reflects the following
 
 ## 👤 Author
 
-# **Author:** mehran Asgari
+# mehran Asgari
 ## **Email:** [imehranasgari@gmail.com](mailto:imehranasgari@gmail.com).
 ## **GitHub:** [https://github.com/imehranasgari](https://github.com/imehranasgari).
 
