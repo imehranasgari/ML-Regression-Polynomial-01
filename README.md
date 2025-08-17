@@ -88,7 +88,7 @@ Even though this project is based on a simple concept, it reflects the following
 
 ## 👤 Author
 
-# mehran Asgari
+## mehran Asgari
 ## **Email:** [imehranasgari@gmail.com](mailto:imehranasgari@gmail.com).
 ## **GitHub:** [https://github.com/imehranasgari](https://github.com/imehranasgari).
 
@@ -96,4 +96,4 @@ Even though this project is based on a simple concept, it reflects the following
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
